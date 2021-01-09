@@ -1,3 +1,3 @@
 # CEngine
 
-This is a engine made with no librarys and in c
+This is a engine made with no libraries and in c
